@@ -4,3 +4,5 @@ dsafds
 Merge test
 
 Love
+NewLine
+NewLine2
