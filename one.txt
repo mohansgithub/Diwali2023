@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 https://digital.ai/learn/devsecops-periodic-table/
 hello how are you
 https://www.jenkins.io/doc/book/installing/windows/
+=======
+rewrewrew
+>>>>>>> 60a5edc89f9118ca7ae204abcf5ab7f1dff118fd
